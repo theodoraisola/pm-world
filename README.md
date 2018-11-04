@@ -11,9 +11,9 @@ My interest is to drive development, market launch, support users and
 keep improving amazing products.
 
 
-Typical activities include:
-Conducting Research
-Developing Strategy
-Communicating Plans
-Acting of Feedbacks
-Analysing Data
+## Typical activities include:
+- Conducting Research
+- Developing Strategy
+- Communicating Plans
+- Acting of Feedbacks
+- Analysing Data
